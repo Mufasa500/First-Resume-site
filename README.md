@@ -1,7 +1,10 @@
 # First-Project
 techdegree
 
--This is a simple design for a resume  and cover page I have created for myself.
+
+-This is a simple design for a resume  and cover page I have created for a treehouse front end development project. 
  
-- languages used include HTML and CSS.
+- Contributing languges include HTML and CSS.
+
+
 
